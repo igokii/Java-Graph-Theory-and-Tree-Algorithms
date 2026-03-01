@@ -15,7 +15,7 @@ This repository contains a comprehensive collection of exercises and projects de
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 * **Language:** Java 21
 * **Key Libraries:**
     * `JGraphT`: Used for graph structures, connectivity, and shortest path algorithms.
